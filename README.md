@@ -1,1 +1,1 @@
-"Made in Godot 3.2" 
+Made in Godot 3.2
